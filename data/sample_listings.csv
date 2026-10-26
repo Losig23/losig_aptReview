@@ -1,0 +1,38 @@
+id,city,neighborhood,beds,baths,sqft,rent
+S01,San Francisco,Mission District,1,1,650,2800
+S02,San Francisco,Mission District,1,1,700,2950
+S03,San Francisco,Mission District,1,1,720,3100
+S04,San Francisco,Mission District,1,1,600,2650
+S05,San Francisco,Mission District,2,1,950,3800
+S06,San Francisco,Mission District,2,2,1050,4100
+S07,San Francisco,Mission District,0,1,450,2100
+S08,San Francisco,SoMa,1,1,680,3000
+S09,San Francisco,SoMa,1,1,720,3200
+S10,San Francisco,SoMa,1,1,640,2900
+S11,San Francisco,SoMa,2,2,1100,4300
+S12,San Francisco,SoMa,0,1,480,2300
+S13,San Francisco,SoMa,0,1,500,2400
+S14,San Francisco,Hayes Valley,1,1,660,2900
+S15,San Francisco,Hayes Valley,1,1,700,3050
+S16,San Francisco,Hayes Valley,0,1,470,2200
+S17,San Francisco,Richmond District,1,1,620,2400
+S18,San Francisco,Richmond District,1,1,680,2550
+S19,San Francisco,Richmond District,2,1,900,3400
+S20,San Francisco,Sunset District,1,1,600,2300
+S21,San Francisco,Sunset District,1,1,650,2450
+S22,San Francisco,Sunset District,2,1,950,3300
+S23,San Francisco,Sunset District,2,2,1000,3500
+S24,San Francisco,Nob Hill,1,1,650,2750
+S25,San Francisco,Nob Hill,1,1,700,2900
+S26,San Francisco,Nob Hill,0,1,450,2000
+S27,Oakland,Downtown Oakland,1,1,650,2100
+S28,Oakland,Downtown Oakland,1,1,700,2250
+S29,Oakland,Downtown Oakland,2,1,950,3000
+S30,Oakland,Rockridge,1,1,680,2350
+S31,Oakland,Rockridge,2,1,950,3400
+S32,Berkeley,Berkeley,1,1,620,2300
+S33,Berkeley,Berkeley,1,1,660,2450
+S34,Berkeley,Berkeley,0,1,420,1800
+S35,Berkeley,Berkeley,0,1,450,1900
+S36,Daly City,Daly City,1,1,640,2100
+S37,Daly City,Daly City,2,1,900,2900

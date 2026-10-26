@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "renttrust"
+version = "0.1.0"
+description = "A transparent rental-listing trust scorer: tier + reasons, never a verdict."
+requires-python = ">=3.9"
+
+[project.scripts]
+renttrust = "renttrust.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["renttrust*"]
